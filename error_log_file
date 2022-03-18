@@ -1,0 +1,1 @@
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'xavier'@'localhost' (using password: YES) storage in ./error_log_file
